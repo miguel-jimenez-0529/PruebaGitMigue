@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         """
         
         print(string)
+        print("Hola crayola")
         print("Te quiero lamer los huevos")
         print("Y yo a ti princesa")
         // Do any additional setup after loading the view, typically from a nib.
