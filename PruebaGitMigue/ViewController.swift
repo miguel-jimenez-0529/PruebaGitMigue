@@ -12,6 +12,12 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        let string = """
+        laksjdflasjdlfjalsñdkf
+        asdopfjaspdfj
+        asdofaksjpodf
+        """
+        print(string)
         // Do any additional setup after loading the view, typically from a nib.
     }
 
